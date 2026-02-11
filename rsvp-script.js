@@ -165,42 +165,42 @@ const guests = [
     {
         id: 24,
         name: "Alex Stephan",
-        photo: "images/noimage.jpg",
+        photo: "images/alex.jpg",
         category: "Guest",
         searchTerms: ["alex", "stephan"]
     },
     {
         id: 25,
         name: "Okechukwu smart",
-        photo: "images/noimage.jpg",
+        photo: "images/smart.jpg",
         category: "Usher",
         searchTerms: ["okechukwu", "smart"]
     },
     {
         id: 26,
         name: "Justina Egbuikwe",
-        photo: "images/noimage.jpg",
+        photo: "images/justina.jpg",
         category: "Guest",
         searchTerms: ["justina", "egbuikwe"]
     },
     {
         id: 27,
         name: "Chief Chris Ekeocha",
-        photo: "images/noimage.jpg",
+        photo: "images/chris.jpg",
         category: "Guest",
         searchTerms: ["chris", "ekeocha", "chief"]
     },
     {
         id: 28,
         name: "Jude Offorka",
-        photo: "images/noimage.jpg",
+        photo: "images/jude.jpg",
         category: "Guest",
         searchTerms: ["jude", "offorka"]
     },
     {
         id: 29,
         name: "Cherry Toni",
-        photo: "images/noimage.jpg",
+        photo: "images/cherry.jpg",
         category: "Guest",
         searchTerms: ["cherry", "toni"]
     },
@@ -228,7 +228,7 @@ const guests = [
     {
         id: 33,
         name: "Chief Chinyere Okpe",
-        photo: "images/chinyere.JPG",
+        photo: "images/chinyere.jpg",
         category: "Family",
         searchTerms: ["chinyere", "okpe"]
     },
@@ -291,7 +291,7 @@ const guests = [
     {
         id: 42,
         name: "Oshun Afeez Ademola",
-        photo: "images/noimage.jpg",
+        photo: "images/afeez.jpg",
         category: "Guest",
         searchTerms: ["oshun", "afeez", "ademola"]
     },
@@ -389,7 +389,7 @@ const guests = [
     {
         id: 56,
         name: "Mr and Mrs Kennedy Nkemjika",
-        photo: "images/noimage.jpg",
+        photo: "images/kenedy.jpg",
         category: "Guest",
         searchTerms: ["kennedy", "nkemjika"]
     },
@@ -452,7 +452,7 @@ const guests = [
     {
         id: 65,
         name: "Ezeanyika Ebube",
-        photo: "images/noimage.jpg",
+        photo: "images/ebube.jpg",
         category: "Guest",
         searchTerms: ["ezeanyika", "ebube"]
     },
@@ -466,7 +466,7 @@ const guests = [
     {
         id: 67,
         name: "Oyebanji Dada",
-        photo: "images/noimage.jpg",
+        photo: "images/banji.jpg",
         category: "Guest",
         searchTerms: ["oyebanji", "dada"]
     },
@@ -515,7 +515,7 @@ const guests = [
     {
         id: 74,
         name: "Nick Okoro",
-        photo: "images/noimage.jpg",
+        photo: "images/nick.jpg",
         category: "Guest",
         searchTerms: ["nick", "okoro"]
     },
@@ -529,7 +529,7 @@ const guests = [
     {
         id: 76,
         name: "Wisdom Ugorji",
-        photo: "images/noimage.jpg",
+        photo: "images/wisdom.jpg",
         category: "Guest",
         searchTerms: ["wisdom", "ugorji"]
     },
@@ -577,10 +577,10 @@ const guests = [
     },
     {
         id: 83,
-        name: "Mr and Mrs Tomilola",
+        name: "Regan",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["tomi", "tomilola"]
+        searchTerms: ["regan"]
     },
     {
         id: 84,
@@ -594,7 +594,14 @@ const guests = [
         name: "Daniel Onuoha",
         photo: "images/noimage.jpg",
         category: "MC",
-        searchTerms: ["Daniel", "Onuoha"]
+        searchTerms: ["Daniel", "onuoha"]
+    },
+    {
+        id: 86,
+        name: "Chidera Okolie",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["chidera", "Okolie"]
     }
     
 ];
