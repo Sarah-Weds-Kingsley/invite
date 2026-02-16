@@ -32,14 +32,14 @@ const guests = [
         id: 5,
         name: "Mr and Mrs Robert Eneh",
         photo: "images/noimage.jpg",
-        category: "Childhood Friend",
+        category: "Family",
         searchTerms: ["robert", "eneh"]
     },
     {
         id: 6,
-        name: "Mr and Mrs Akanne Chigozie",
+        name: "Mr Akanne Chigozie",
         photo: "images/akanne.jpg",
-        category: "Childhood Friend",
+        category: "Friend",
         searchTerms: ["akanne", "chigozie"]
     },
     {
@@ -262,10 +262,10 @@ const guests = [
     },
     {
         id: 38,
-        name: "Regina Richards",
+        name: "Chinelo Lynda Nwosu",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["regina", "richards"]
+        searchTerms: ["chinelo", "lynda", "nwosu"]
     },
     {
         id: 39,
@@ -467,7 +467,7 @@ const guests = [
         id: 67,
         name: "Oyebanji Dada",
         photo: "images/banji.jpg",
-        category: "Guest",
+        category: "Grooms man",
         searchTerms: ["oyebanji", "dada"]
     },
     {
@@ -602,7 +602,115 @@ const guests = [
         photo: "images/noimage.jpg",
         category: "Guest",
         searchTerms: ["chidera", "Okolie"]
-    }
+    },
+    {
+        id: 87,
+        name: "Seun Cashimawo",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["seun", "cashimawo"]
+    },
+    {
+        id: 88,
+        name: "Ekwemba",
+        photo: "images/ekwemba.jpg",
+        category: "MC",
+        searchTerms: ["ekwemba"]
+    },
+    {
+        id: 89,
+        name: "Chief and Mrs Chris Ogueri",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["chris", "ogueri"]
+    },
+    {
+        id: 90,
+        name: "Chief Harvey Mac Ejere",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["harvey", "ejere", "mac"]
+    },
+    {
+        id: 91,
+        name: "Margret Agbolahon",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["margret", "agbolahon"]
+    },
+    {
+        id: 92,
+        name: "Hon. Kingsley Iwuanyanwu",
+        photo: "images/iwuanyanwu.jpg",
+        category: "Guest",
+        searchTerms: ["kingsley", "iwuanyanwu"]
+    },
+    {
+        id: 93,
+        name: "HRH Eze Oparachukwu",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["hrh", "eze", "oparachukwu"]
+    },
+    {
+        id: 94,
+        name: "Mercy Chukwueke",
+        photo: "images/chukwueke.jpg",
+        category: "Guest",
+        searchTerms: ["mercy", "chukwueke"]
+    },
+    {
+        id: 95,
+        name: "Ilo Daniel Santos",
+        photo: "images/daniel.jpg",
+        category: "Guest",
+        searchTerms: ["ilo", "daniel", "santos"]
+    },
+    {
+        id: 96,
+        name: "Moses",
+        photo: "images/moses.jpg",
+        category: "Guest",
+        searchTerms: ["moses"]
+    },
+    {
+        id: 97,
+        name: "Dotun",
+        photo: "images/dotun.jpg",
+        category: "Guest",
+        searchTerms: ["dotun"]
+    },
+    {
+        id: 98,
+        name: "Kehinde Adeyemi",
+        photo: "images/kehinde.jpg",
+        category: "Guest",
+        searchTerms: ["kehinde", "adeyemi"]
+    },
+    {
+        id: 99,
+        name: "James Hellen",
+        photo: "images/hellen.jpg",
+        category: "Guest",
+        searchTerms: ["james", "hellen"]
+    },
+    {
+        id: 100,
+        name: "James Mesanuwe",
+        photo: "images/mesanuwe.jpg",
+        category: "Guest",
+        searchTerms: ["james", "mesanuwe"]
+    },
+    {
+        id: 101,
+        name: "Sijibomi Oluyemi",
+        photo: "images/oluyemi.jpg",
+        category: "Guest",
+        searchTerms: ["sijibomi", "oluyemi"]
+    },
+    
+
+
     
 ];
 
