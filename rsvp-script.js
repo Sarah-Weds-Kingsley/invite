@@ -493,10 +493,10 @@ const guests = [
     },
     {
         id: 71,
-        name: "Uncle Goddy",
+        name: "Mr Goddy Anomah",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["uncle", "goddy"]
+        searchTerms: ["anomah", "goddy"]
     },
     {
         id: 72,
@@ -521,10 +521,10 @@ const guests = [
     },
     {
         id: 75,
-        name: "Igene Ugorji",
+        name: "Mr & Mrs Ignatius Ugorji",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["igene", "ugorji"]
+        searchTerms: ["ignatius", "ugorji"]
     },
     {
         id: 76,
@@ -729,7 +729,133 @@ const guests = [
         category: "Guest",
         searchTerms: ["olaoluwa", "solomon", "taiwo"]
     },
-    
+    {
+        id: 105,
+        name: "Lolo Judith Ugwumba",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["judith", "ugwumba"]
+    },
+    {
+        id: 106,
+        name: "Ambassador Ruth Nkwocha",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["ruth", "nkwocha"]
+    },
+    {
+        id: 107,
+        name: "Hon Chris Chilaka",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["chris", "chilaka"]
+    },
+    {
+        id: 108,
+        name: "Mrs Esther Uzomah",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["esther", "uzomah"]
+    },
+    {
+        id: 109,
+        name: "Mr Ben Egeonu",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["ben", "egeonu"]
+    },
+    {
+        id: 110,
+        name: "High Chief Emeka Akubueze",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["emeka", "akubueze"]
+    },
+    {
+        id: 111,
+        name: "High Chief Engr. Ofoma",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["ofoma"]
+    },
+    {
+        id: 112,
+        name: "Chief Prince Joseph Anyawu",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["joseph", "anyawu"]
+    },
+    {
+        id: 113,
+        name: "Mrs Ogechi Jennifer",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["ogechi", "jennifer"]
+    },
+    {
+        id: 114,
+        name: "Barrister Emeka Iwenze",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["emeka", "iwenze"]
+    },
+    {
+        id: 115,
+        name: "Mrs Gloria Jude",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["gloria", "jude"]
+    },
+    {
+        id: 116,
+        name: "Mrs Uloaku Nwachukwu",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["uloaku", "nwachukwu"]
+    },
+    {
+        id: 117,
+        name: "Mrs Getrodu Okoro",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["getrodu", "okoro"]
+    },
+    {
+        id: 118,
+        name: "Mrs Anna Ijezie",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["anna", "ijezie"]
+    },
+    {
+        id: 119,
+        name: "Comodore Christy and Mr Chuks Opara",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["christy", "chuks", "opara"]
+    },
+    {
+        id: 120,
+        name: "Chief Mrs Kate Onyechere",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["kate", "onyechere"]
+    },
+    {
+        id: 121,
+        name: "High Chief Uwadede",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["uwadede"]
+    },
+    {
+        id: 122,
+        name: "High Chief Ugobuzo",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["ugobuzo"]
+    },
+
 
 
     
