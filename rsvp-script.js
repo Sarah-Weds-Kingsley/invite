@@ -107,7 +107,7 @@ const guests = [
     },
     {
         id: 16,
-        name: "Chinedu Okenu",
+        name: "Mr and Mrs Chinedu Okenu",
         photo: "images/cyno.jpg",
         category: "Friend of the Groom",
         searchTerms: ["chinedu", "okenu"]
@@ -468,7 +468,7 @@ const guests = [
         name: "Oyebanji Dada",
         photo: "images/banji.jpg",
         category: "Grooms man",
-        searchTerms: ["oyebanji", "dada"]
+        searchTerms: ["banji", "dada"]
     },
     {
         id: 68,
@@ -707,6 +707,27 @@ const guests = [
         photo: "images/oluyemi.jpg",
         category: "Guest",
         searchTerms: ["sijibomi", "oluyemi"]
+    },
+    {
+        id: 102,
+        name: "Princess Nkechi Thompson",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["princess", "nkechi", "thompson"]
+    },
+    {
+        id: 103,
+        name: "Mr and Mrs Johnny Nlekwa",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["johnny", "nlekwa"]
+    },
+    {
+        id: 104,
+        name: "Olaoluwa Solomon Taiwo",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["olaoluwa", "solomon", "taiwo"]
     },
     
 
