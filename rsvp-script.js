@@ -855,6 +855,27 @@ const guests = [
         category: "Guest",
         searchTerms: ["ugobuzo"]
     },
+    {
+        id: 123,
+        name: "Dness Gladys Aruwaje",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["gladys", "aruwaje"]
+    },
+    {
+        id: 124,
+        name: "Dness Joy Ndubisi",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["joy", "ndubisi"]
+    },
+    {
+        id: 125,
+        name: "Dness Hapiness Ugwu",
+        photo: "images/noimage.jpg",
+        category: "Guest",
+        searchTerms: ["hapiness", "ugwu"]
+    },
 
 
 
