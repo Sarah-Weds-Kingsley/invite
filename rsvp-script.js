@@ -297,10 +297,10 @@ const guests = [
     },
     {
         id: 43,
-        name: "Racheal Edoh",
+        name: "Rachael Edoh",
         photo: "images/rachael.JPG",
         category: "Guest",
-        searchTerms: ["racheal", "edoh"]
+        searchTerms: ["rachael", "edoh"]
     },
     {
         id: 44,
