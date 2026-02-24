@@ -136,7 +136,7 @@ const guests = [
     {
         id: 20,
         name: "Alex Ejindu",
-        photo: "images/noimage.jpg",
+        photo: "images/alex ejindu.JPG",
         category: "Guest",
         searchTerms: ["alex", "ejindu"]
     },
@@ -200,7 +200,7 @@ const guests = [
     {
         id: 29,
         name: "Awele Jennifer",
-        photo: "images/jeniffer.jpg",
+        photo: "images/jennifer.jpg",
         category: "Guest",
         searchTerms: ["awele", "jennifer"]
     },
@@ -444,7 +444,7 @@ const guests = [
     },
     {
         id: 64,
-        name: "Adedeji",
+        name: "Adedeji Adeyemi",
         photo: "images/adedeji.JPG",
         category: "Guest",
         searchTerms: ["adedeji"]
@@ -571,23 +571,23 @@ const guests = [
     {
         id: 82,
         name: "Funmi Akerele",
-        photo: "images/funmi.jpg",
+        photo: "images/funmi.jpeg",
         category: "Guest",
         searchTerms: ["funmi", "akerele"]
     },
     {
         id: 83,
-        name: "Regan Akaiso",
+        name: "Reagan Akaiso",
         photo: "images/noimage.jpg",
         category: "Guest",
         searchTerms: ["regan"]
     },
     {
         id: 84,
-        name: "Jennifer Okolie",
-        photo: "images/noimage.jpg",
+        name: "Olawale Oyesola",
+        photo: "images/olawale.JPG",
         category: "Guest",
-        searchTerms: ["jennifer", "okolie"]
+        searchTerms: ["olawale", "oyesola"]
     },
     {
         id: 85,
@@ -727,7 +727,7 @@ const guests = [
         name: "Olaoluwa Solomon Taiwo",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["olaoluwa", "solomon", "taiwo"]
+        searchTerms: ["olaoluwa", "solomon"]
     },
     {
         id: 105,
@@ -875,6 +875,13 @@ const guests = [
         photo: "images/noimage.jpg",
         category: "Guest",
         searchTerms: ["hapiness", "ugwu"]
+    },
+    {
+        id: 126,
+        name: "Omolola Adigun",
+        photo: "images/omolola.JPG",
+        category: "Guest",
+        searchTerms: ["omolola", "adigun"]
     },
 
 
