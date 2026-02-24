@@ -45,7 +45,7 @@ const guests = [
     {
         id: 7,
         name: "Okere Divine",
-        photo: "images/divine.jpg",
+        photo: "images/divine.JPG",
         category: "Family",
         searchTerms: ["okere", "divine"]
     },
@@ -263,7 +263,7 @@ const guests = [
     {
         id: 38,
         name: "Chinelo Lynda Nwosu",
-        photo: "images/lynda.jpg",
+        photo: "images/linda.jpg",
         category: "Guest",
         searchTerms: ["chinelo", "lynda", "nwosu"]
     },
@@ -341,7 +341,7 @@ const guests = [
         id: 49,
         name: "Jamiu Jimoh",
         photo: "images/jamiu.JPG",
-        category: "Guest",
+        category: "VIP",
         searchTerms: ["jamiu", "jimoh"]
     },
     {
@@ -474,7 +474,7 @@ const guests = [
         id: 68,
         name: "Boye Rafiu Ogunmolade",
         photo: "images/boye.JPG",
-        category: "Guest",
+        category: "VIP",
         searchTerms: ["boye", "rafu", "ogunmolade"]
     },
     {
@@ -787,7 +787,7 @@ const guests = [
     },
     {
         id: 113,
-        name: "Mrs Ogechi Jennifer",
+        name: "Mr and Mrs Ogechi Jennifer",
         photo: "images/noimage.jpg",
         category: "Guest",
         searchTerms: ["ogechi", "jennifer"]
