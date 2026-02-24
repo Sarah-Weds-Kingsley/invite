@@ -45,7 +45,7 @@ const guests = [
     {
         id: 7,
         name: "Okere Divine",
-        photo: "images/noimage.jpg",
+        photo: "images/divine.jpg",
         category: "Family",
         searchTerms: ["okere", "divine"]
     },
@@ -81,7 +81,7 @@ const guests = [
         id: 12,
         name: "John Nwokolo",
         photo: "images/noimage.jpg",
-        category: "Guest",
+        category: "Family",
         searchTerms: ["john", "nwokolo"]
     },
     {
@@ -137,7 +137,7 @@ const guests = [
         id: 20,
         name: "Alex Ejindu",
         photo: "images/alex ejindu.JPG",
-        category: "Guest",
+        category: "Family",
         searchTerms: ["alex", "ejindu"]
     },
     {
@@ -208,14 +208,14 @@ const guests = [
         id: 30,
         name: "Nanya Okonta",
         photo: "images/nanya.JPG",
-        category: "Guest",
+        category: "Maid of Honor",
         searchTerms: ["nanya", "okonta"]
     },
     {
         id: 31,
         name: "Adedoyinsola Sogbein",
         photo: "images/adedoyin.JPG",
-        category: "Guest",
+        category: "Bridesmaid",
         searchTerms: ["adedoyinsola", "sogbein"]
     },
     {
@@ -250,7 +250,7 @@ const guests = [
         id: 36,
         name: "Sandra Omoregie",
         photo: "images/sandra.JPG",
-        category: "Guest",
+        category: "Bridesmaid",
         searchTerms: ["sandra", "omoregie"]
     },
     {
@@ -263,7 +263,7 @@ const guests = [
     {
         id: 38,
         name: "Chinelo Lynda Nwosu",
-        photo: "images/noimage.jpg",
+        photo: "images/lynda.jpg",
         category: "Guest",
         searchTerms: ["chinelo", "lynda", "nwosu"]
     },
@@ -327,7 +327,7 @@ const guests = [
         id: 47,
         name: "Chizaram Cynthia",
         photo: "images/chizaram.JPG",
-        category: "Guest",
+        category: "Bridesmaid",
         searchTerms: ["chizaram", "cynthia"]
     },
     {
@@ -432,7 +432,7 @@ const guests = [
         id: 62,
         name: "Florence Titcombe",
         photo: "images/florence.JPG",
-        category: "Guest",
+        category: "Bridesmaid",
         searchTerms: ["florence", "titcombe"]
     },
     {
