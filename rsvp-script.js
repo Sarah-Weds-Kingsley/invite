@@ -592,7 +592,7 @@ const guests = [
     {
         id: 85,
         name: "Daniel Onuoha",
-        photo: "images/noimage.jpg",
+        photo: "images/onuoha.JPG",
         category: "MC",
         searchTerms: ["Daniel", "onuoha"]
     },
@@ -883,6 +883,35 @@ const guests = [
         category: "Guest",
         searchTerms: ["omolola", "adigun"]
     },
+    {
+        id: 127,
+        name: "Mike Evbuoma",
+        photo: "images/mike.JPG",
+        category: "Guest",
+        searchTerms: ["mike", "evbuoma"]
+    },
+    {
+        id: 128,
+        name: "Alexandra",
+        photo: "images/alexander.JPG",
+        category: "Guest",
+        searchTerms: ["alexandra"]
+    },
+    {
+        id: 129,
+        name: "Precious Elueme",
+        photo: "images/precious.jpeg",
+        category: "Guest",
+        searchTerms: ["precious", "elueme"]
+    },
+    {
+        id: 130,
+        name: "Ifunanya Okolie",
+        photo: "images/ifunanya.JPG",
+        category: "Guest",
+        searchTerms: ["ifunanya",]
+    }
+    
 
 
 
