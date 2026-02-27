@@ -430,10 +430,10 @@ const guests = [
     },
     {
         id: 62,
-        name: "Florence Titcombe",
-        photo: "images/florence.JPG",
+        name: "Iyalola Debo-badmus",
+        photo: "images/iyalola.jpg",
         category: "Bridesmaid",
-        searchTerms: ["florence", "titcombe"]
+        searchTerms: ["iyalola", "debo-badmus"]
     },
     {
         id: 63,
@@ -500,17 +500,17 @@ const guests = [
     },
     {
         id: 72,
-        name: "Saliba Anthony",
-        photo: "images/noimage.jpg",
+        name: "Saliba Anthony and Adeyemi",
+        photo: "images/saliba.jpg",
         category: "Guest",
-        searchTerms: ["saliba", "anthony"]
+        searchTerms: ["saliba", "anthony", "adeyemi"]
     },
     {
         id: 73,
-        name: "Adeyemi",
+        name: "Chijioke Nwangwu",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["adeyemi"]
+        searchTerms: ["chijioke", "nwangwu"]
     },
     {
         id: 74,
@@ -685,7 +685,7 @@ const guests = [
         name: "Kehinde Adeyemi",
         photo: "images/kehinde.jpg",
         category: "Guest",
-        searchTerms: ["kehinde", "adeyemi"]
+        searchTerms: ["kehinde"]
     },
     {
         id: 99,
@@ -752,7 +752,7 @@ const guests = [
     },
     {
         id: 108,
-        name: "Mrs Esther Uzomah",
+        name: "Mrs Ezinne Patricia",
         photo: "images/noimage.jpg",
         category: "Guest",
         searchTerms: ["esther", "uzomah"]
@@ -780,17 +780,17 @@ const guests = [
     },
     {
         id: 112,
-        name: "Chief Prince Joseph Anyawu",
+        name: "Mr Amobi",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["joseph", "anyawu"]
+        searchTerms: ["amobi"]
     },
     {
         id: 113,
-        name: "Mr and Mrs Ogechi Jennifer",
+        name: "Tripple Chief Ommemma",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["ogechi", "jennifer"]
+        searchTerms: ["ommemma"]
     },
     {
         id: 114,
@@ -836,24 +836,24 @@ const guests = [
     },
     {
         id: 120,
-        name: "Chief Mrs Kate Onyechere",
+        name: "High Chief John Egbo",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["kate", "onyechere"]
+        searchTerms: ["john", "egbo"]
     },
     {
         id: 121,
-        name: "High Chief Uwadede",
+        name: "Kola Aruwaji",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["uwadede"]
+        searchTerms: ["kola", "aruwaji"]
     },
     {
         id: 122,
-        name: "High Chief Ugobuzo",
+        name: "Mrs Patience",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["ugobuzo"]
+        searchTerms: ["patience"]
     },
     {
         id: 123,
@@ -864,17 +864,17 @@ const guests = [
     },
     {
         id: 124,
-        name: "Dness Joy Ndubisi",
+        name: "Mrs Grace Achugbu",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["joy", "ndubisi"]
+        searchTerms: ["grace", "achugbu"]
     },
     {
         id: 125,
-        name: "Dness Hapiness Ugwu",
+        name: "Goodness Akpunwoke",
         photo: "images/noimage.jpg",
         category: "Guest",
-        searchTerms: ["hapiness", "ugwu"]
+        searchTerms: ["goodness", "akpunwoke"]
     },
     {
         id: 126,
@@ -909,7 +909,7 @@ const guests = [
         name: "Ifunanya Okolie",
         photo: "images/ifunanya.JPG",
         category: "Guest",
-        searchTerms: ["ifunanya",]
+        searchTerms: ["ifunanya"]
     }
     
 
