@@ -432,7 +432,7 @@ const guests = [
         id: 62,
         name: "Iyalola Debo-badmus",
         photo: "images/iyalola.jpg",
-        category: "Bridesmaid",
+        category: "Guest",
         searchTerms: ["iyalola", "debo-badmus"]
     },
     {
