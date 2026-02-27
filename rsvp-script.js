@@ -430,7 +430,7 @@ const guests = [
     },
     {
         id: 62,
-        name: "Iyalola Debo-badmus",
+        name: "Iyalola Debo-Badmus",
         photo: "images/iyalola.jpg",
         category: "Guest",
         searchTerms: ["iyalola", "debo-badmus"]
@@ -508,7 +508,7 @@ const guests = [
     {
         id: 73,
         name: "Chijioke Nwangwu",
-        photo: "images/noimage.jpg",
+        photo: "images/chijioke.jpg",
         category: "Guest",
         searchTerms: ["chijioke", "nwangwu"]
     },
@@ -910,8 +910,14 @@ const guests = [
         photo: "images/ifunanya.JPG",
         category: "Guest",
         searchTerms: ["ifunanya"]
+    },
+    {
+        id: 131,
+        name: "Tejiri Matthew",
+        photo: "images/tejiri.jpg",
+        category: "Guest",
+        searchTerms: ["tejiri", "matthew"]
     }
-    
 
 
 
